@@ -1,0 +1,15 @@
+# setting
+.idea
+.vscode
+
+# python
+.venv
+__pycache__
+__init__.py
+
+
+# javascript
+node_modules
+
+# DB
+*.sqlite3
