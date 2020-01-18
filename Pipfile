@@ -9,7 +9,6 @@ verify_ssl = true
 django = "*"
 djangorestframework = "*"
 django-rest-konx = "*"
-django-rest-knox = "*"
 
 [requires]
 python_version = "3.7"
